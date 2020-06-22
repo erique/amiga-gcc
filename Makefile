@@ -35,14 +35,14 @@ GIT_IRA              := https://github.com/bebbo/ira
 GIT_IXEMUL           := https://github.com/bebbo/ixemul
 GIT_LHA              := https://github.com/jca02266/lha
 GIT_LIBDEBUG         := https://github.com/bebbo/libdebug
-GIT_LIBNIX           := https://github.com/bebbo/libnix
+GIT_LIBNIX           := https://github.com/erique/libnix
 GIT_LIBSDL12         := https://github.com/AmigaPorts/libSDL12
 GIT_NEWLIB_CYGWIN    := https://github.com/bebbo/newlib-cygwin
 GIT_SFDC             := https://github.com/adtools/sfdc
 GIT_VASM             := https://github.com/leffmann/vasm
 GIT_VBCC             := https://github.com/bebbo/vbcc
 GIT_VLINK            := https://github.com/leffmann/vlink
-GIT_AROSSTUFF        := https://github.com/bebbo/aros-stuff
+GIT_AROSSTUFF        := https://github.com/erique/aros-stuff
 
 CFLAGS ?= -Os
 CXXFLAGS ?= $(CFLAGS)
